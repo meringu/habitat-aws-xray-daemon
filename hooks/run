@@ -1,0 +1,3 @@
+#!/bin/sh
+
+xray --config {{pkg.svc_config_path}}/config.yaml
